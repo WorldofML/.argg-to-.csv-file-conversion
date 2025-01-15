@@ -1,2 +1,4 @@
+numpy
 pandas
-scipy.io
+scikit-learn
+matplotlib
